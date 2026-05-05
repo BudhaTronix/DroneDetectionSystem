@@ -1,0 +1,1 @@
+"""Drone webcam detector package."""

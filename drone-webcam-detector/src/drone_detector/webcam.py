@@ -1,0 +1,1 @@
+"""Webcam detection script placeholder."""
